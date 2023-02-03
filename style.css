@@ -1,0 +1,7 @@
+body {
+    /* background-color: red; */
+}
+
+.carousel-item img {
+    max-height: 50vh;
+}
