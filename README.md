@@ -2,6 +2,10 @@
 # Portfolio Website
 The goal of this project is to build a portfolio website that can demonstrate your skills and be expanded over time.
 
+Content and component requirements are listed below, but the design layout and structure is up to you. Feel free to explore documentation on other tools at your disposal that may not have been used in class. 
+
+---
+
 ## Content Requirements:
 1. Name, intro, tagline
 
