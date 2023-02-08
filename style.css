@@ -6,6 +6,10 @@ body {
     max-height: 50vh;
 }
 
+.card-img-top {
+    max-height: 30vh;
+}
+
 .row {
     margin: 35px 0px;
 }
